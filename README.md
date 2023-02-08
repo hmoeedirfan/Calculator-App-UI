@@ -1,6 +1,11 @@
 # Calculator App UI Clone
 
-### I try to clone this UI design on Calculator
+## Development Setup 
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
 ## Design
 
